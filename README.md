@@ -1,5 +1,5 @@
 #1 前言
-上一篇文章分析了xUtils、ButterKnife注解框架的源码，这一次我们自己打造一款IOC注解框架，因为ButterKnife的源码实现难度过大，我先仿照xUtils的源码方式，反射注解实现。
+分析了xUtils、ButterKnife注解框架的源码，这一次我们自己打造一款IOC注解框架，因为ButterKnife的源码实现难度过大，我先仿照xUtils的源码方式，反射注解实现。
 虽说反射注解对性能有影响，但是影响是极小，相比I渲染和Bitmap以及Service和Handler上的内存泄露不是一个量级的，编程一开始不纠结完美化，实现这个IOC框架是为了提升自己的编码能力，也是提高自己对项目整体代码提高可控性。
 #2 控件属性注入
 Annotation注解需要了解[Java中Annotation用法](https://www.cnblogs.com/be-forward-to-help-others/p/6846821.html)、[Java Annotation 总结](https://www.cnblogs.com/renhui/p/5910300.html)
