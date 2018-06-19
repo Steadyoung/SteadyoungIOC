@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="IntelliJ IDEA Community Edition IC-172.4343.14" project-jdk-type="IDEA JDK">
-    <output url="file://$PROJECT_DIR$/out" />
-=======
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
     <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
@@ -34,6 +30,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
->>>>>>> 043140301ce4e94a77f72ff6e1971eaa30c59218
   </component>
 </project>
