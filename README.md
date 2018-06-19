@@ -8,6 +8,8 @@
 
 插件下载：[SteadyoungIOC-CodePlug.jar](https://raw.githubusercontent.com/Steadyoung/SteadyoungIOC-CodePlug/master/SteadyoungIOC-CodePlug.jar)
 
+插件可以使用 Alt + Insert 智能插入 呼出，也可以使用 Ctrl + Shift + I 或者 Ctrl + Shift + Alt + I 快捷键： 
+
 ![SteadyoungIOC框架代码生成演示](https://upload-images.jianshu.io/upload_images/8541415-8ae31adc7d03241f.png)
 
 我的CSDN博客：[https://blog.csdn.net/wenwins](https://blog.csdn.net/wenwins)  
