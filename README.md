@@ -8,7 +8,7 @@
 
 插件下载：[SteadyoungIOC-CodePlug.jar](https://raw.githubusercontent.com/Steadyoung/SteadyoungIOC-CodePlug/master/SteadyoungIOC-CodePlug.jar)
 
-![SteadyoungIOC框架代码生成演示](https://upload-images.jianshu.io/upload_images/8541415-a73f86ad00db4440.gif)
+![SteadyoungIOC框架代码生成演示](https://upload-images.jianshu.io/upload_images/8541415-8ae31adc7d03241f.png)
 
 我的CSDN博客：[https://blog.csdn.net/wenwins](https://blog.csdn.net/wenwins)  
 
